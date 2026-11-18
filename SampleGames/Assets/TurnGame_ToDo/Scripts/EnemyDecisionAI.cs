@@ -36,7 +36,7 @@ namespace TurnGame.Student
                 }
                 if(target.Guarding)
                 {
-                    score -= 15f;
+                    score -= 15f;  
                 }
 
                 if(score > bestScore)
